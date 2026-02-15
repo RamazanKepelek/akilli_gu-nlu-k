@@ -5,3 +5,4 @@ doğruysa : başarılı + true dön
 yanlışsa hak azalt
 hak biterse false döndür
 '''
+# Test Değişikliği Git add .
